@@ -1,0 +1,5 @@
+<FindBugsFilter>
+    <Match>
+        <Package name="~com\.tdp\.ms.*\.model\.thirdparty.*"/>
+    </Match>
+</FindBugsFilter>
